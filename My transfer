@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python36",
+      "display_name": "Python 3.6",
+      "language": "python"
+    },
+    "language_info": {
+      "mimetype": "text/x-python",
+      "nbconvert_exporter": "python",
+      "name": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.6.6",
+      "file_extension": ".py",
+      "codemirror_mode": {
+        "version": 3,
+        "name": "ipython"
+      }
+    },
+    "toc": {
+      "base_numbering": 1,
+      "nav_menu": {},
+      "number_sections": true,
+      "sideBar": true,
+      "skip_h1_title": false,
+      "title_cell": "Table of Contents",
+      "title_sidebar": "Contents",
+      "toc_cell": false,
+      "toc_position": {},
+      "toc_section_display": true,
+      "toc_window_display": false
+    }
+  },
+  "nbformat_minor": 2,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# Exercise\n1. Write and save a program that prints out your name and waits\nfor the user to press the Enter key before the program ends.",
+      "metadata": {
+        "trusted": true
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "#File Name: Input_Func_Usage.py\n#Input your name and then ho=it enter key to exit.\n#By Alfredo Ayala\n#Date 10/15/1991\n#version 1.0\n\n#main \ninput(\"Hit Enter your Name to exit\")",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "execution_count": 2,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "'Uyg'"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Exercise\n2. Write a program that prints your favorite quote. It should give\ncredit to the person who said it on the next line",
+      "metadata": {
+        "trusted": true
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": "#File Name: print_my_favorite_quote.py\n#Discription: Prints my favotite quate.py.\n#By Alfredo Ayala\n#Date 10/15/1991\n#version 1.0\n\n#main\nprint(\"Its only money - Pablo Picaso\")",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "text": "Its only money - Pablo Picaso\n",
+          "name": "stdout",
+          "output_type": "stream"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Exercise\n2. Write a program that allows a user to enter his or her two\nfavorite foods. The program should then print out the name of\na new food by joining the original food names together.\n\n",
+      "metadata": {
+        "trusted": true
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Exercise\n3. Write a Tipper program where the user enters a restaurant\nbill total. The program should then display two amounts: a\n15 percent tip and a 20 percent tip.\n",
+      "metadata": {
+        "trusted": true
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Exercise\n4. Write a Car Salesman program where the user enters the base\nprice of a car. The program should add on a bunch of extra fees\nsuch as tax, license, dealer prep, and destination charge. Make\ntax and license a percent of the base price. The other fees\nshould be set values. Display the actual price of the car once\nall the extras are applied.",
+      "metadata": {
+        "trusted": true
+      }
+    }
+  ]
+}
